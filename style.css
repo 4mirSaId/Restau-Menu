@@ -1,0 +1,79 @@
+h1 {
+    display: block;
+    text-align: center;
+    font-size: 10ch;
+    background-color: orangered;
+    margin: 15px;
+    padding: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    border-radius: 20px;
+}
+
+h2 {
+    font-size: 7ch;
+    display: content;
+    text-align: center;
+    color: darkblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.meal {
+    background-color: beige;
+    border-radius: 40px;
+}
+
+ul {
+    display: contents;
+    list-style: none;
+}
+
+li{
+    text-align: center;
+    margin: 1px;
+    display: flex;
+    align-items: center;
+
+}
+
+strong {
+    color: rgb(71, 42, 34);
+    font-size: 3ch;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: block;
+    align-items: center;
+    text-align: center;
+    margin-top: 1cm;
+    margin-bottom: ;
+    padding: 30px;
+    background-color: aquamarine;
+    border-radius: 40px;
+}
+
+img {
+    width: 200px;
+    border-color: aquamarine;
+    margin: 1cm;
+    margin-bottom: 1cm;
+    border-radius: 30px;
+}
+
+p{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: start;
+}
+
+footer {
+    background-color: orangered;
+    align-items: center;
+}
+ footer p a {
+    text-align: center;
+    text-decoration: none;
+    color: aliceblue;
+    display: block;
+    margin: 0 auto;
+ }
